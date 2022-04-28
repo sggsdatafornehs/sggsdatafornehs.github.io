@@ -1,36 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="
-            http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
-
-  <url>
-       <loc>https://sggsdatafornehs.github.io/upgradeweb/index.html</loc>
-       <lastmod>2022-04-21T08:24:16+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
-  </url>
-  <url>
-       <loc>https://sggsdatafornehs.github.io/upgradeweb/thoughts.html</loc>
-       <lastmod>2022-04-21T08:24:16+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://sggsdatafornehs.github.io/upgradeweb/about.html</loc>
-       <lastmod>2022-04-21T08:24:16+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
-  <url>
-       <loc>https://sggsdatafornehs.github.io/upgradeweb/contact.html</loc>
-       <lastmod>2022-04-21T08:24:16+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://sggsdatafornehs.github.io/upgradeweb/index.html</loc>  
+</url>
+<url>
+<loc>https://sggsdatafornehs.github.io/upgradeweb/about.html</loc>  
+</url>
+<url>
+<loc>https://sggsdatafornehs.github.io/testing/login-system/index.html</loc>  
+</url>
+<url>
+<loc>https://sggsdatafornehs.github.io/upgradeweb/thoughts.html</loc>  
+</url>
+<url>
+<loc>https://sggsdatafornehs.github.io/upgradeweb/contact.html</loc>  
+</url>
 </urlset>
