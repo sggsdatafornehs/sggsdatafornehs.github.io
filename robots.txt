@@ -6,3 +6,10 @@ Allow: /upgradeweb/index.html
 Allow: /upgradeweb/about.html
 Allow: /upgradeweb/thoughts.html
 Allow: /testing/login-system/index.html
+Disallow: https://sggsdatafornehs.github.io/testing/login-system/login.js
+Sitemap: https://sggsdatafornehs.github.io/upgradeweb/urllist.txt
+Sitemap: https://sggsdatafornehs.github.io/upgradeweb/sitemap.xml
+Allow: https://sggsdatafornehs.github.io/upgradeweb/index.html
+Allow: https://sggsdatafornehs.github.io/upgradeweb/about.html
+Allow: https://sggsdatafornehs.github.io/upgradeweb/thoughts.html
+Allow: https://sggsdatafornehs.github.io/testing/login-system/index.html
