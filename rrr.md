@@ -1,7 +1,6 @@
 # 科學班內容分享空間  
 #### 這是由新竹市曙光女中附設國中部考上111學年度科園實中科學班學生架設的網站  
 #### 歡迎大家都來參考喔!!!   
-<br style='color:white'>實驗中學歷屆考古題, 科學班歷屆考古題, 科學班心得</br>
 <div class="alert alert-info alert-dismissible" role="alert">
 
    <b><font color="red">最新消息</font></b> <a href="#我們的資源">資源區</a>有許多新內容咯！ 
