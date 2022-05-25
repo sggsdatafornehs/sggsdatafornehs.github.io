@@ -9,7 +9,9 @@ alert("請輸入密碼");
 window.location.href="welcome";
 } else if(username.value == "shaenno" && pass.value == "1110"){
 window.location.href="welcome";
-}
+} else if(username.value == "daniel" && pass.value == "chenhaha"){
+window.location.href="welcome";
+} 
     else {
 alert("請輸入正確的使用者名稱和密碼！工程組在瞪你喔~!")
 }
