@@ -29,13 +29,5 @@ document.onkeydown = function(){
 
     
 
-    if( event.ctrlKey ){
-        return false;
-    }
-    if ( event.altKey ){
-        return false;
-    }
-    if ( event.shiftKey ){
-        return false;
-    }
+
 }
