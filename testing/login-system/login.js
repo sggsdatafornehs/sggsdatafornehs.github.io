@@ -1,4 +1,3 @@
-location.href='https://sggsdatafornehs.github.io/upgradeweb/post.html'
 function login() {
     var sss
 var username = document.getElementById("username");
