@@ -1,3 +1,5 @@
+location.href='https://sggsdatafornehs.github.io/soureces'
+
 function login() {
     var sss
 var username = document.getElementById("username");
