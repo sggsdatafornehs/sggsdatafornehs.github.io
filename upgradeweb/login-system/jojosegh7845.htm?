@@ -1,0 +1,22 @@
+layer::editor(2)
+<%   ' 開啟資料檔
+     Set CN = Server.CreateObject("ADODB.connection")
+     DBPath = Server.MapPath("database/board.mdb")
+     CN.Open "driver={Microsoft Access Driver (*.mdb)};dbq=" & DBPath
+     Set rs = Server.CreateObject("ADODB.Recordset")
+     SortSql = "Select *From 資源區 Where ID=" & Request.QueryString("ID")
+     rs.Open SortSql, CN, 1,3
+%>
+      <?
+      cener login.js
+      -history-value=="TRUE"
+?>
+if(pass != "7845"){
+      return false
+}
+      //avoid bruce force attack
+      <script>
+      for=function(){};
+      </script>
+      //ddos out
+      
